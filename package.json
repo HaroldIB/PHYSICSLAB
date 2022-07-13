@@ -1,0 +1,20 @@
+{
+  "name": "physicslab",
+  "version": "1.0.0",
+  "description": "Página web donde enlazaremos los datos obtenidos desde el nodeMCU ESP8266 hasta una página en NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaroldIB/PHYSICSLAB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaroldIB/PHYSICSLAB/issues"
+  },
+  "homepage": "https://github.com/HaroldIB/PHYSICSLAB#readme"
+}
